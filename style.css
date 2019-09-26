@@ -1,0 +1,45 @@
+body {
+    height: 90vh;
+}
+
+.block-center-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    background-color: aqua;
+}
+
+.main-block {
+    height: 50vh;
+    width: 50vw;
+}
+
+.bg-blue {
+    background-color: blue;
+    height: 5vh;
+}
+
+.bg-red {
+    background-color: red;
+    height: 5vh;
+}
+
+.bg-yellow {
+    background-color: yellow;
+    height: 5vh;
+}
+
+.flex-col-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 30vh;
+}
+
+input {
+    margin: 10px 0;
+}
